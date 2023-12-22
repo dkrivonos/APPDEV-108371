@@ -1,4 +1,6 @@
-**Python![](Image_001.png)**
+**Python**
+
+![](Image_001.png)
 [//]: # (the definition of Header in bold and a line image)
 
 Python is a powerful, high-level programming language that is widely used in many different fields, including web development, data science, artificial intelligence, and more. It is known for its simple, easy-to-read syntax, which makes it an ideal choice for beginners and experts alike. In this article, we will explore some of the key features of Python and why it is such a popular choice for programmers.
@@ -6,7 +8,9 @@ Python is a powerful, high-level programming language that is widely used in man
 ![](Image_002.png)
 [//]: # (Python image)
 
-**Why Python is Popular![](Image_001.png)**
+**Why Python is Popular**
+
+![Alt text](Image_001.png)
 [//]: # (the definition of Header in bold and a line image)
 
 Python is a popular programming language for many reasons. Some of the key features that make it so attractive to programmers include:
@@ -17,7 +21,15 @@ Python is a popular programming language for many reasons. Some of the key featu
 - **Large community:** Python has a large and active community of developers who contribute to the language and its many libraries. This means that there is a wealth of resources and support available for those who want to learn and use Python.
 - **Open source:** Python is open-source software, which means that it is free to use and distribute. This makes it an ideal choice for those who want to create and share their own projects without incurring any costs.
 
-**Python Libraries[](Image_001.png)**
+
+
+
+
+
+
+
+
+**Python Libraries**
 Python has a wide range of libraries available that provide additional functionality for different tasks. Some of the most popular libraries include:
 
 | **Library** | **Description** | 
@@ -52,7 +64,3 @@ When the code is run, it will print "Hello, John".
 - [Python for Data Science Handbook -](https://jakevdp.github.io/PythonDataScienceHandbook) A free online book that provides a comprehensive introduction
 
 [//]: # (Web-Link)
-
-
-**Lorem ipsum dolor sit amet**
-
